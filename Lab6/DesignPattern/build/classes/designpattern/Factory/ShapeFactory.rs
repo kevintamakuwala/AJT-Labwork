@@ -1,0 +1,4 @@
+designpattern.Factory.Square
+designpattern.Factory.Shape
+designpattern.Factory.ShapeFactory
+designpattern.Factory.Circle

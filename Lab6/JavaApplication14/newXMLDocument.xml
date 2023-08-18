@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<root>
+
+    <vehicle>
+        <owner>
+            <Firstname>Darsheel</Firstname>
+            <Lastname>Kasundra</Lastname>
+        </owner>
+        <Engine>
+            <fuel>Petrol</fuel>
+            <size>2</size>
+            <cylinder>LPG</cylinder>
+        </Engine>
+        <model>GT</model>
+        <color>white</color>
+        <year>2020</year>
+        <brand>Mustang</brand>
+    </vehicle>
+    
+ </root>
+
