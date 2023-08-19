@@ -1,6 +1,5 @@
 import java.awt.*;
 import java.awt.event.*;
-import java.io.Exception;
 import java.sql.*;
 
 class App extends Frame implements ActionListener {
