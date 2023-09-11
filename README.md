@@ -1,5 +1,5 @@
 ## Advanced Java Technology (AJT)
-
+### Contents
 1. Implement programming solution that uses abstract class, interface, object composition,
 and inheritance
 2. Implement programming solutions that use Java-8 functional programming.
