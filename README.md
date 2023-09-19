@@ -10,7 +10,7 @@ patterns.](https://github.com/kevintamakuwala/AJT-Labwork/tree/main/Lab6)
 management, and connection pooling.](https://github.com/kevintamakuwala/AJT-Labwork/tree/main/Lab5)
 6. [Implement a Servlet to allow students to register as users.](https://github.com/kevintamakuwala/AJT-Labwork/tree/main/Lab7/Login)
 7. [Implement a web application that employs the use of session management.](https://github.com/kevintamakuwala/AJT-Labwork/tree/main/Lab8)
-8. Implement a web application that demonstrates an implementation of servlet filtering.
+8. [Implement a web application that demonstrates an implementation of servlet filtering.](https://github.com/kevintamakuwala/AJT-Labwork/tree/main/Lab10)
 9. Implement a JSP based web application that demonstrates the use of the java bean.
 10. Implement a JSP based (MVC application) web application which allows the user to edit
 his/her database information.
