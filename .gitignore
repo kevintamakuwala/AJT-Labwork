@@ -5,7 +5,11 @@
 /Lab7/Login/build/
 /Lab9/nbproject/private/
 /Lab9/build/
+<<<<<<< HEAD
 /Lab10/JavaBean/nbproject/private/
 /Lab10/JavaBean/build/
 /Lab10/JavaApplication17/nbproject/private/
 /Lab10/JavaApplication17/build/
+=======
+/Lab9/dist/
+>>>>>>> 888bd5377e74b9c5721fdd5ef10cfa58f37b9668
